@@ -15,7 +15,7 @@
 :outbox_tray: 2021 Goals: Get freelance jobs opportunities.
 
  
-
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocbatista&show_icons=true&theme=dracula)
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagocbatista)](https://github.com/tiagocbatista)
